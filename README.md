@@ -3,16 +3,14 @@
 
 - <b>Debian Server based Applications (Python/C/Bash)</b>
 
-  - [Debian Server Hardener Toolkit](https://github.com/cwsecur1ty/Debian-Hardener-Toolkit)
-  - [Debian Rootkit Hunter](https://github.com/cwsecur1ty/RootGuard) (Work In Progress)
+  - [Debian Server Hardener Toolkit](https://github.com/cwsecur1ty/Debian-Hardener-Toolkit) (Bash and Python)
+  - [Debian Rootkit Hunter](https://github.com/cwsecur1ty/RootGuard) (Work In Progress) (Bash, C and Python)
 - <b>PowerShell</b>
 
   - [PowerShell Administration Tools Library](https://github.com/cwsecur1ty/PowerShell-Scripts)
 - <b>C# (.NET Desktop Applications)</b>
 
-  - [Ransomware Proof of Concept (Encrypter)]()
-  - [Ransomware Proof of Concept (Decrypter)]()
-  - [Keylogger with Email Capability]()
+  - [Keylogger with Email Capability]() (Posting Soon)
 - <b>Python</b>
 
   - [Web Directory Brute-Forcer/Scanner](https://github.com/cwsecur1ty/URLHunter)
