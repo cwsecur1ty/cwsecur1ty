@@ -15,7 +15,7 @@
 - <b>Python Reconnaissance/Security Testing</b>
 
   - [Web Directory Brute-Forcer/Scanner](https://github.com/cwsecur1ty/URLHunter)
-
+  - [C2 Server Design] (Posting Soon)
 
 <h2>Malware Analysis (Remnux/AnyRun)</h2>
 
