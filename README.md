@@ -15,4 +15,8 @@
   - [Web Directory Brute-Forcer/Scanner](https://github.com/cwsecur1ty/URLHunter)
   - [C2 Server Design] (Posting Soon)
 
+- <b>AWS Projects (EC2)</b>
+
+  - [C2 Server Design] (Posting Soon)
+
 
