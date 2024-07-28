@@ -13,10 +13,10 @@
 - <b>Python Reconnaissance/Security Testing</b>
 
   - [Web Directory Brute-Forcer/Scanner](https://github.com/cwsecur1ty/URLHunter)
-  - [C2 Server & Client (Python)](https://github.com/cwsecur1ty/C2-Server)
+  - [SentinelC2 Server & Client (Python)](https://github.com/cwsecur1ty/C2-Server)
 
 - <b>AWS Projects (EC2)</b>
 
-  - [C2 Server & Client (Python)](https://github.com/cwsecur1ty/C2-Server)
+  - [SentinelC2 Server & Client (Python)](https://github.com/cwsecur1ty/C2-Server)
 
 
