@@ -12,6 +12,7 @@
 
 - <b>Python Reconnaissance/Security Testing</b>
 
+  - [Python Advanced Port Scanenr](https://github.com/cwsecur1ty/PortFinder)
   - [Web Directory Brute-Forcer/Scanner](https://github.com/cwsecur1ty/URLHunter)
   - [SentinelC2 Server & Client (Python)](https://github.com/cwsecur1ty/C2-Server)
 
