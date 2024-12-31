@@ -4,7 +4,6 @@
 - <b>Debian Server based Applications (Python/C/Bash)</b>
 
   - [Linux Server Hardener Toolkit](https://github.com/cwsecur1ty/Debian-Hardener-Toolkit) (Bash and Python)
-  - [Linux Log Analyser](https://github.com/cwsecur1ty/Linux-Log-Analyser)
   - [Linux Rootkit Hunter](https://github.com/cwsecur1ty/RootGuard) (Work In Progress) (Bash, C and Python)
 - <b>PowerShell</b>
 
