@@ -1,7 +1,7 @@
 <h1>Hi, I'm Cameron. </h1>
 <h2>Software Projects:</h2>
 
-- <b>Linux based Applications (Python/C/Bash)</b>
+- <b>Linux based Applications</b>
 
   - [Linux Server Hardener Toolkit](https://github.com/cwsecur1ty/Debian-Hardener-Toolkit) (Bash and Python)
   - [Linux Rootkit Hunter](https://github.com/cwsecur1ty/RootGuard) (Work In Progress) (Bash, C and Python)
