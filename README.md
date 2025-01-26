@@ -1,5 +1,4 @@
-<h1>Hi, I'm Cameron. </h1>
-<h2>Software Projects:</h2>
+<h1>Software Projects:</h1>
 
 - <b>Linux based Applications</b>
 
