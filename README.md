@@ -1,14 +1,14 @@
 <h1>Software Projects:</h1>
 
-- <b>Linux based Applications</b>
+- <b>Linux Env</b>
 
   - [Linux Server Hardener Toolkit](https://github.com/cwsecur1ty/Debian-Hardener-Toolkit) (Bash and Python)
   - [Linux Rootkit Hunter](https://github.com/cwsecur1ty/RootGuard) (Work In Progress) (Bash, C and Python)
-- <b>PowerShell</b>
+- <b>PowerShell - Windows Env</b>
 
   - [PowerShell Administration Tools Library](https://github.com/cwsecur1ty/PowerShell-Scripts)
 
-- <b>Python Reconnaissance/Security Testing</b>
+- <b>Red Teaming Apps</b>
 
   - [Specter (Reconnaissance Framework)](https://github.com/cwsecur1ty/Specter)
   - [VulnBrew (Exploit crafting toolkit)](https://github.com/cwsecur1ty/VulnBrew)
