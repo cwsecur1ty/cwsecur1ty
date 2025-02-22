@@ -2,8 +2,8 @@
 
 - <b>Linux Env</b>
 
-  - [Linux Server Hardener Toolkit](https://github.com/cwsecur1ty/Debian-Hardener-Toolkit) (Bash and Python)
-  - [Linux Rootkit Hunter](https://github.com/cwsecur1ty/RootGuard) (Work In Progress) (Bash, C and Python)
+  - [Linux Server Hardener Toolkit](https://github.com/cwsecur1ty/Debian-Hardener-Toolkit)
+  - [File Integrity Monitor (FIM-LinPy)](https://github.com/cwsecur1ty/FIM-LinPy) 
 - <b>PowerShell - Windows Env</b>
 
   - [PowerShell Administration Tools Library](https://github.com/cwsecur1ty/PowerShell-Scripts)
