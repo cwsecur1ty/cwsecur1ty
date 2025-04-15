@@ -12,9 +12,14 @@
 
   - [Specter (Reconnaissance Framework)](https://github.com/cwsecur1ty/Specter)
   - [VulnBrew (Exploit crafting toolkit)](https://github.com/cwsecur1ty/VulnBrew)
-  - [Python Port Scanner](https://github.com/cwsecur1ty/PortFinder)
   - [URLHunter (Web Directory Brute-Forcer)](https://github.com/cwsecur1ty/URLHunter)
   - [SentinelC2 Server & Client (Python)](https://github.com/cwsecur1ty/C2-Server)
+
+# Exploits Repository
+
+- [Exploits](https://github.com/cwsecur1ty/Exploits/tree/main)
+
+The exploits repository is mainly Python scripts which automate some of the payload/exploit/reversing process when taking on HTB machines.
 
 
 
