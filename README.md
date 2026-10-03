@@ -15,7 +15,7 @@
 
 | Project | What it does |
 | --- | --- |
-| **[Spectyn](https://github.com/cwsecur1ty/spectyn)** | HTTPS, TLS, and DNS checks with offline Nuclei, KEV, and CVE evidence review. Exports text, JSON, Markdown, and HTML reports. |
+| **[Inspectyn](https://github.com/cwsecur1ty/inspectyn)** | Go CLI for TLS, HTTP header, and DNS checks, with optional offline Nuclei, KEV, and CVE evidence review. |
 | **[FastXSS](https://github.com/cwsecur1ty/fastxss)** | Rust scanner for reflected, stored, DOM-based, and blind XSS. |
 | [Lintriage](https://github.com/cwsecur1ty/Lintriage) | Linux privilege-escalation triage. |
 | [Windows Persistence Checker](https://github.com/cwsecur1ty/win-persistence-checker) | PowerShell checks for common Windows persistence mechanisms. |
