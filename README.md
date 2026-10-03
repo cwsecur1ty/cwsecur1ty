@@ -1,19 +1,36 @@
-<!-- # Road to OSCP
-I am documenting my learning, currently I am working toward the PNPT certification from TCM Security.
-- **[Red Team GitBook](https://cwsec.gitbook.io/road-to-oscp)** -->
-## Red Team Infrastructure
-- My red team infrastructure tool will be released soon.
+<div align="center">
+
+<h1>cwsecur1ty</h1>
+<p>Security tooling, web application testing, and infrastructure.</p>
+
+<p>
+  <a href="#tools">Tools</a> &bull;
+  <a href="#labs-and-research">Labs &amp; Research</a> &bull;
+  <a href="#in-progress">In Progress</a>
+</p>
+
+</div>
 
 ## Tools
-- [fastxss](https://github.com/cwsecur1ty/fastxss), a Rust made scanner to identify security gaps in web.
-- xapi, api testing in Go (release soon)
-- [urlhunter](https://github.com/cwsecur1ty/URLHunter), basic web directory scanning.
 
-## Testing
-- [IAV](https://github.com/cwsecur1ty/IAV/tree/main), a purposefully vulnerable, configurable, locally hosted web application for testing tooling, skills and scripts.
+| Project | What it does |
+| --- | --- |
+| **[Spectyn](https://github.com/cwsecur1ty/spectyn)** | HTTPS, TLS, and DNS checks with offline Nuclei, KEV, and CVE evidence review. Exports text, JSON, Markdown, and HTML reports. |
+| **[FastXSS](https://github.com/cwsecur1ty/fastxss)** | Rust scanner for reflected, stored, DOM-based, and blind XSS. |
+| [Lintriage](https://github.com/cwsecur1ty/Lintriage) | Linux privilege-escalation triage. |
+| [Windows Persistence Checker](https://github.com/cwsecur1ty/win-persistence-checker) | PowerShell checks for common Windows persistence mechanisms. |
+| [PowerShell Scripts](https://github.com/cwsecur1ty/PowerShell-Scripts) | Windows remediation and management scripts for Intune environments. |
 
-## CTFs
-- exploits I've used [exploits repo](https://github.com/cwsecur1ty/Exploits/tree/main)
+## Labs and Research
+
+- **[IAV](https://github.com/cwsecur1ty/IAV)**: deliberately vulnerable local web applications for testing tools, scripts, and techniques.
+- **[Exploits](https://github.com/cwsecur1ty/Exploits)**: CVE exploit research and Hack The Box scripts, mostly in Python.
+
+## In Progress
+
+- **[xapi](https://github.com/cwsecur1ty/xapi)**: API testing in Go.
+- **Red team infrastructure**: tooling under development.
 
 ---
-*All tools are developed for educational purposes.*
+
+For authorized security testing, research, and learning. See each repository for its license and usage guidance.
