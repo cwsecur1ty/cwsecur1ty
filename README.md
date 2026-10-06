@@ -27,7 +27,6 @@
 
 ## In Progress
 
-- **[xapi](https://github.com/cwsecur1ty/xapi)**: API testing in Go.
 - **Red team infrastructure**: tooling under development.
 
 ---
