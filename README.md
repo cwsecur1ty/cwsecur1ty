@@ -15,6 +15,7 @@
 
 | Project | What it does |
 | --- | --- |
+| **[Namazu](https://github.com/cwsecur1ty/namazu)** | Python API security workbench: OpenAPI contract testing and an OWASP API Top 10 audit with reproducible evidence. |
 | **[Inspectyn](https://github.com/cwsecur1ty/inspectyn)** | Go CLI for TLS, HTTP header, and DNS checks, with optional offline Nuclei, KEV, and CVE evidence review. |
 | **[FastXSS](https://github.com/cwsecur1ty/fastxss)** | Rust scanner for reflected, stored, DOM-based, and blind XSS. |
 | [Windows Persistence Checker](https://github.com/cwsecur1ty/win-persistence-checker) | PowerShell checks for common Windows persistence mechanisms. |
